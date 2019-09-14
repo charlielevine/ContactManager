@@ -1,6 +1,3 @@
-[submodule "contact-manager-frontend"]
-	path = contact-manager-frontend
-	url = https://github.com/charlielevine/contact-manager-frontend
 [submodule "cop4331-small-project"]
 	path = cop4331-small-project
 	url = https://github.com/charlielevine/contact-manager-frontend
