@@ -1,3 +1,3 @@
 [submodule "frontend"]
-	path = cop4331-small-project
+	path = frontend
 	url = https://github.com/charlielevine/contact-manager-frontend
